@@ -25,7 +25,7 @@ Lets define the structure for testing comments 🚀
 
 ### Example Input
 
-- sum.js
+- `sum.js`
 
 ```js
 /*
@@ -39,7 +39,7 @@ export function sum(a, b) {
 
 ### Example output
 
-- **test**/sum.test.js
+- `__test__/sum.test.js`
 
 ```js
 import * as ModuleName from ../sum
